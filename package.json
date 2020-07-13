@@ -18,7 +18,7 @@
     "cors": "^2.8.3",
     "debug": "^2.6.4",
     "express": "^4.15.2",
-    "standard-version": "^4.0.0"
+    "standard-version": "^8.0.1"
   },
   "scripts": {
     "release": "standard-version",
