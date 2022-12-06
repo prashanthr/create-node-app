@@ -17,7 +17,7 @@
     "config": "^1.25.1",
     "cors": "^2.8.3",
     "debug": "^2.6.4",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "standard-version": "^4.0.0"
   },
   "scripts": {
